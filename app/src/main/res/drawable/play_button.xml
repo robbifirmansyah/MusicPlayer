@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="50"
+    android:viewportHeight="50">
+
+    <!-- Background Circle -->
+    <path
+        android:pathData="M25,25m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0"
+        android:fillColor="#FF8F00"/>
+
+    <!-- Centered Play Button -->
+    <path
+        android:pathData="M20,15 L35,25 L20,35 Z"
+        android:fillColor="#ffffff"/>
+</vector>
